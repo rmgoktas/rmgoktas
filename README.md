@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmgoktas&label=Profile%20views&color=000000&style=flat" alt="rmgoktas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmgoktas&label=visitors&color=000000&style=flat" alt="rmgoktas" /> </p>
 
 - 💻 I'm Computer Science & Engineering student
 - 📫 How to reach me **metehangoktas01@gmail.com**
