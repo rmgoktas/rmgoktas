@@ -14,7 +14,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /></a>
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/rmgoktas/rmgoktas/assets/77693201/336bea55-ae94-43d9-9e1a-f8c2309abbfc" alt="swiftui" width="42" height="42" /></a>
   <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a>
   <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/rmgoktas/rmgoktas/assets/77693201/152bfe66-16f9-4005-b664-0894d0a347d6" alt="firebase" width="40" height="40" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="44" height="44" /></a>
