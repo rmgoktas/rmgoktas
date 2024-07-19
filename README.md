@@ -2,10 +2,6 @@
 <h3 align="center">I'm a CSE Student from Turkey</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rmgoktas&label=Profile%20views&color=e60a0a&style=flat" alt="rmgoktas" /> </p>
 
-<p align="center">
-  <img src="https://github.com/rmgoktas/rmgoktas/assets/77693201/77056098-80be-402c-b4c3-0d64176acab4" alt="animated" />
-</p>
-
 <h3 align="center">Links:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/rmgdev/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rmgdev/" height="30" width="30" /></a>&nbsp;
