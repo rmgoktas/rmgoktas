@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tech Stack:</h3>
 <p align="center">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /></a>
   <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="40" height="40" /></a>
