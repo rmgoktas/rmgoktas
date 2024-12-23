@@ -4,7 +4,7 @@
 
 <h3 align="center">Links:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rmgdev/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rmgdev/" height="30" width="30" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/rmgoktas/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rmgoktas/" height="30" width="30" /></a>&nbsp;
   <a href="https://rmgoktas.medium.com/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="https://rmgoktas.medium.com/" height="30" width="30" /></a>
 </p>
 
