@@ -16,7 +16,7 @@
   <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="40" height="40" /></a>
   <a href="https://aws.amazon.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/352052717/original/be95f71e9655e353cbc0a247d8e52ac265e6ed14/setup-and-fix-issues-on-amazon-web-services-aws.jpg" alt="firebase" width="40" height="40" /></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="firebase" width="40" height="40" /></a>
-  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/373980/plsql.svg" alt="oracle-plsql" width="40" height="40" /></a>
+  <a href="" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="postgre" width="40" height="40" /></a>
 </p>
 
 <p align="center">
