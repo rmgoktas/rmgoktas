@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm R. Metehan GOKTAS</h1>
+<h1 align="center">R. Metehan GOKTAS</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rmgoktas&label=Profile%20views&color=e60a0a&style=flat" alt="rmgoktas" /> </p>
 
