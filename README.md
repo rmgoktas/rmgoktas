@@ -7,7 +7,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />](https://www.linkedin.com/in/rmgoktas/)
 [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" height="30" />](https://rmgoktas.medium.com/)
 
----
 
 ### Tech Stack:
 <div style="display: flex; gap: 10px; align-items: center;">
