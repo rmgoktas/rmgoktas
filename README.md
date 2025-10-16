@@ -12,6 +12,7 @@
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="40" alt="java"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/aws.png" width="40" height="40" alt="aws"/>
+  <img src="https://www.svgrepo.com/show/331370/docker.svg" width="40" height="40" alt="docker"/>
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" alt="spring"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="postgresql"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="40" alt="swift"/>
