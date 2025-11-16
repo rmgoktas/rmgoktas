@@ -1,5 +1,5 @@
 <h1 align="left">R. Metehan GOKTAS</h1>
-<h3 align="left">Software Engineer</h3>
+<h3 align="left">DevOps / Cloud</h3>
 
 ----
 
@@ -14,5 +14,6 @@
   <img src="https://www.svgrepo.com/show/331370/docker.svg" width="40" height="40" alt="docker"/>
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" alt="spring"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="postgresql"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="40" alt="swift"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Go.svg" height="40" alt="go"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40" alt="k8s"/>
 </div>
